@@ -1,33 +1,28 @@
-Hospital Management System
-A web-based Hospital Management System built using HTML, CSS, JavaScript, and PHP. It features three user panels:
+# 🏥 Hospital Management System
 
-Admin: Manages doctors, patients, appointments, and system data.
+A web-based Hospital Management System developed using **HTML, CSS, JavaScript, and PHP**, designed to streamline hospital operations.
 
-Doctor: Views appointments, adds diagnoses, and manages patient records.
+## 👥 User Panels
 
-Patient: Registers, books appointments, and views medical reports.
+- **Admin Panel**: Manage doctors, patients, and appointments.
+- **Doctor Panel**: View appointments, update patient records.
+- **Patient Panel**: Register, book appointments, view reports.
 
-Features
-Secure login for all user types
+## ✨ Features
 
-Appointment scheduling and management
+- Secure login for all users
+- Appointment scheduling
+- Patient history and record management
+- Clean and responsive UI
 
-Medical record tracking
+## 🛠️ Tech Stack
 
-User-friendly interface
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: PHP  
+- **Database**: MySQL
 
-Technologies Used
-Frontend: HTML, CSS, JavaScript
+## 🚀 How to Run
 
-Backend: PHP
-
-Database: MySQL
-
-How to Run
-Clone or download the project files
-
-Import the SQL file into your MySQL database
-
-Update database config in PHP files
-
-Run the project on XAMPP/LAMP/WAMP server
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/hospital-management-system.git
