@@ -20,9 +20,3 @@ A web-based Hospital Management System developed using **HTML, CSS, JavaScript, 
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: PHP  
 - **Database**: MySQL
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
